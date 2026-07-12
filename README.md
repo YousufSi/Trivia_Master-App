@@ -1,33 +1,27 @@
-# Trivia Master (React Native / Expo)
+Trivia Master
 
-A simple 10-question trivia app built with React Native using Expo. Questions are randomized from a fixed pool each run. Tracks score, shows per-question feedback, and a final results screen.
+The ultimate quiz experience designed to challenge your brain and boost your knowledge across a wide range of topics. With a sleek, intuitive interface, players can dive into randomized questions spanning multiple categories.
 
-## Run locally
-1. Install Node.js (LTS).
-2. Install Expo CLI:
-   ```bash
-   npm install -g expo
-   ```
-3. Install dependencies:
-   ```bash
-   npm install
-   ```
-4. Start the dev server:
-   ```bash
-   npm start
-   ```
-5. Open the project in Expo Go (iOS/Android) or press `w` for web preview.
+Features
 
-## Project structure
-```
-trivia-app/
-  App.js
-  package.json
-  app.json
-  .gitignore
-  assets/
-```
 
-## Notes
-- Code is a cleaned version of the CodeHS snippet (removed merge-conflict markers).
-- No backend; all questions are local.
+Multiple trivia categories
+Randomized question sets
+Clean, intuitive UI
+[Add: scoring, leaderboards, difficulty levels — whichever apply]
+
+
+Tech Stack
+
+
+JavaScript
+[Add framework/library if used]
+[Add data source for questions — API, static file, etc.]
+
+
+Run Locally
+
+bashnpm install
+npm start
+
+[Adjust to match actual run command]
